@@ -1,3 +1,3 @@
-# PM25 Simple Demo
+# PM25 
 
-首先请查阅Skype群获取TOKEN，填写在AirServiceClient.class中，不要忘记交作业哦:-)
+We can search PM2.5 in any city by the app.
